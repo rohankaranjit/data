@@ -1,0 +1,6 @@
+doctor_id,name,specialization,available_today,start_time,end_time,remarks
+101,Dr. Rajesh Thapa,Dermatologist,Yes,10:00,14:00,
+102,Dr. Sita Basnet,Pediatrician,No,12:00,17:00,On leave
+103,Dr. Arjun Singh,Cardiologist,Yes,09:00,13:00,
+104,Dr. Rina Shrestha,Dentist,No,10:30,15:30,In surgery
+105,Dr. Milan Karki,Neurologist,Yes,11:00,16:00,

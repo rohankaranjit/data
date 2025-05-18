@@ -1,0 +1,12 @@
+employee_id,name,department,joining_date,salary,performance_score,bonus,notes
+101,John Doe,Engineering,2022-01-15,75000,8.5,5000,
+102,Jane Smith,Marketing,2021-11-30,,7.2,,
+103,Bob Johnson,Engineering,,82000,9.0,6000,Good performer
+104,,HR,2022-05-20,60000,6.8,2000,Needs improvement
+105,Alice Williams,Marketing,2023-02-10,70000,,4500,
+106,Mark Brown,Engineering,2021-12-01,72000,7.5,,Left company
+107,Susan Davis,HR,2020-08-15,58000,8.0,3000,
+108,Tom Wilson,Engineering,2019-06-23,68000,8.7,4000,
+,Emily Taylor,Marketing,2022-09-01,69000,7.8,3500,
+110,Michael Clark,,2021-07-19,71000,7.0,2500,
+111,Nancy Lee,Engineering,2023-01-01,73000,9.2,5000,Promoted recently
